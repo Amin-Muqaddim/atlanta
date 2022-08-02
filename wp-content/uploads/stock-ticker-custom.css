@@ -1,0 +1,1 @@
+ul.stock_ticker li .sqitem{font-family:"Open Sans",Helvetica,Arial,sans-serif;font-weight:normal;font-size:16px;}ul.stock_ticker li.zero .sqitem,ul.stock_ticker li.zero .sqitem:hover {color:#ffffff}ul.stock_ticker li.minus .sqitem,ul.stock_ticker li.minus .sqitem:hover {color:#d8442f}ul.stock_ticker li.plus .sqitem,ul.stock_ticker li.plus .sqitem:hover {color:#81d742}
